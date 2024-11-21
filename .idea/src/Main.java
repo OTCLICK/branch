@@ -3,5 +3,6 @@ class Main{
         System.out.print("Это добавлено в ветке dev");
         System.out.println("Добавление 1");
         System.out.println("Добавление 2");
+        System.out.println("Добавление 3");
     }
 }
